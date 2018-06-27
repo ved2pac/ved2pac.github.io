@@ -1,0 +1,14 @@
+/* TEAM */
+
+Creator: Paper Tiger Marketing LLC
+URL: https://papertiger.com
+Description: We're a digital design agency that gets excited about unique ideas and the passionate people behind them.
+
+/* THANKS */
+
+Pixel & Tonic - https://pixelandtonic.com
+
+/* SITE */
+
+Standards: HTML5, CSS3
+Components: Craft CMS, Yii, PHP, Javascript, SEOmatic
