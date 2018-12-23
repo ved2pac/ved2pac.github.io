@@ -1,9 +1,5 @@
-# robots.txt for https://www.papertiger.com/
-# For a multi-environment setup, see: https://nystudio107.com/blog/prevent-google-from-indexing-staging-sites
-
-Sitemap: https://www.papertiger.com/sitemap.xml
-
-# Live - Don't allow web crawlers to index Craft
 
 User-agent: *
-Disallow: /craft/
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://vedangvats.com
